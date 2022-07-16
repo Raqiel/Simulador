@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Simulator</string>
+    <string name="imagem_do_time_mandante">Home team image</string>
+    <string name="textview">TextView</string>
+    <string name="x">X</string>
+    <string name="txt_versus">x</string>
+    <string name="cd_home_team">cdHomeTeam</string>
+    <string name="_99">awayteamScore</string>
+</resources>
