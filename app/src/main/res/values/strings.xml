@@ -5,5 +5,5 @@
     <string name="x">X</string>
     <string name="txt_versus">x</string>
     <string name="cd_home_team">cdHomeTeam</string>
-    <string name="_99">awayteamScore</string>
+    <string name="error_api">Unexpected error.</string>
 </resources>
